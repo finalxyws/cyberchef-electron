@@ -1,0 +1,19 @@
+{
+  "name": "cyberchef-electron",
+  "version": "1.0.0",
+  "description": "An electron wrapper of cyberchef",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalxyws/cyberchef-electron.git"
+  },
+  "author": "Sheldon ZHANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finalxyws/cyberchef-electron/issues"
+  },
+  "homepage": "https://github.com/finalxyws/cyberchef-electron#readme"
+}
