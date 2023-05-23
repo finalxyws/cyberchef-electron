@@ -1,6 +1,6 @@
 {
   "name": "cyberchef-electron",
-  "productName": "Cyberchef",
+  "productName": "CyberChef",
   "version": "1.0.0",
   "description": "An electron wrapper of cyberchef",
   "main": "main.js",
