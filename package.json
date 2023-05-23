@@ -4,6 +4,7 @@
   "description": "An electron wrapper of cyberchef",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/finalxyws/cyberchef-electron/issues"
   },
-  "homepage": "https://github.com/finalxyws/cyberchef-electron#readme"
+  "homepage": "https://github.com/finalxyws/cyberchef-electron#readme",
+  "devDependencies": {
+    "electron": "^24.3.1"
+  }
 }
